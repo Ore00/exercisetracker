@@ -16,7 +16,7 @@
     "mongoose": "^5.11.15"
   },
   "repository": {
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-exercisetracker"
+    "url": "https://github.com/Ore00/exercisetracker"
   },
   "license": "MIT",
   "keywords": [

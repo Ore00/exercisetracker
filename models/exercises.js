@@ -1,6 +1,5 @@
 const DB = require("../db.js");
 const moment = require('moment');
-const { findUserById } = require("../controllers/users.js");
 
 let db = new DB();
 const exerciseSchema = new db.mongoose.Schema({
